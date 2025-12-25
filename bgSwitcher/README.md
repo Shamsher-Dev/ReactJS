@@ -3,7 +3,7 @@
 This project bulid by [React] [vite] and [tailwindcss]..
 in this project i am try to chenge Background color
 
-## Problam
+## Problem
 
 - Background Switcher when i was make this project. then i know how to deal react dom with UI by the `useState()`.
 
